@@ -1,4 +1,5 @@
 ## Hi there 👋
+readme 파일 공사중..
 
 <!--
 **seoni25/seoni25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
